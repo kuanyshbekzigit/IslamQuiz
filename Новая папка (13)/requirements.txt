@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+pytz>=2021.1
+aiohttp>=3.8.3
+aiodns>=3.0.0
+cchardet>=2.1.7 
